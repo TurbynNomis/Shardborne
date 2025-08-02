@@ -1,4 +1,4 @@
-#Shardborne
+# Shardborne
 Welcome to Shardborne, a personal and evolving project where I explore the intersection of programming, storytelling, and classic roguelike game design. Here, I showcase two versions of the same idea:
 
 The original version, a compact prototype developed when I first got into game programming.
