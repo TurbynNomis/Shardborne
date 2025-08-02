@@ -5,12 +5,12 @@ The original version, a compact prototype developed when I first got into game p
 
 And the new Shardborne, a fully reimagined and deeply expanded version currently in development.
 
-#🔹 OLD_SB — The Beginning
+# 🔹 OLD_SB — The Beginning
 OLD_SB is a single Python file with around 520 lines of code. It was created in just a few weeks after I dove into the world of roguelike games. Inspired by the concept of starting from something random or uncertain — and turning it into your strength — I built a basic yet meaningful experience.
 
 Though minimal in design, this early version represents my first attempt at creating something that could evolve through creativity and experimentation. Back then, I still didn’t know how to merge programming with storytelling effectively. That realization pushed me to go further — to turn this prototype into a larger, richer project.
 
-#🔹 Shardborne — Reforged Vision
+# 🔹 Shardborne — Reforged Vision
 The new Shardborne is the result of everything I’ve learned over years of programming, designing, and dreaming. Now with over 1800 lines of code, the game includes:
 
 A fully restructured combat system
@@ -25,5 +25,5 @@ Each session is designed to feel unique — a challenge to both your strategy an
 
 This project is more than a game — it’s my personal mission to bring ideas to life through code. I hope it speaks to both players and developers alike, showing how imagination and skill can build something truly engaging.
 
-#License
+# License
 These projects are licensed under the [Creative Commons BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
